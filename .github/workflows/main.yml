@@ -1,4 +1,4 @@
-name: R4S-OpenWrt
+name: ARMV8-OpenWrt
 
 on:
   push:
